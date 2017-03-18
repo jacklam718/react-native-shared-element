@@ -1,0 +1,22 @@
+{
+  "name": "react-native-shared-element",
+  "version": "0.0.1",
+  "description": "react native shared transition",
+  "main": "src/index.js",
+  "repository": "git@github.com:jacklam718/react-native-shared-element.git",
+  "author": "Jack Lam <jacklam718@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "^7.1.1",
+    "eslint": "^3.18.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.0",
+    "flow-bin": "^0.42.0"
+  },
+  "dependencies": {
+    "babel-preset-es2016": "^6.22.0",
+    "babel-preset-react-native": "^1.9.1"
+  }
+}
